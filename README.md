@@ -10,4 +10,3 @@
 	- `git checkout xxx`(xxx要切换分支的名字)
 - 删除本地分支
 	- `git branch -d [branch-name]` 
-- 
