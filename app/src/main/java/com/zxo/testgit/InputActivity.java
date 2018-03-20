@@ -38,7 +38,7 @@ public class InputActivity extends Activity {
         });
 
 
-        Log.d(TAG, "onCreate:test commit");
+        Log.d(TAG, "onCreate:test commit--reset");
     }
 
     private void computeUsableHeight(){
