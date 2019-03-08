@@ -1,5 +1,6 @@
 package com.zxo.testgit;
 
+import android.graphics.Paint;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -10,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        final Paint mPaint = new Paint();
+        final Paint mPaint = new Paint();
 //        mPaint.setColor(0xffff0000);
 //        mPaint.setStrokeWidth(10);
 //        setContentView(new View(this){
@@ -29,6 +30,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        //
+        //sfklksjf;
     }
 }
